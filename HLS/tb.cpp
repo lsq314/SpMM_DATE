@@ -1,6 +1,5 @@
 #include "core.h"
 #include <stdio.h>
-#include "test.h"
 #include "row_wise.h"
 #include "pe.h"
 
@@ -74,8 +73,6 @@ int main(){
 //			&r1acc, &r1hit, &r2acc, &r2hit, &r3acc, &r3hit, &r4acc, &r4hit, &r5acc, &r5hit, &r6acc, &r6hit, &r7acc, &r7hit, &r8acc, &r8hit,
 //			&vc1acc, &vc1hit, &vc2acc, &vc2hit, &vc3acc, &vc3hit, &vc4acc, &vc4hit,
 //			&vc5acc, &vc5hit, &vc6acc, &vc6hit, &vc7acc, &vc7hit, &vc8acc, &vc8hit, &fnum);
-
-//	allocchannel(source1, source2, source3, source4);
 
 	return 0;
 }
