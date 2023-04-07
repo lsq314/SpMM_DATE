@@ -24,14 +24,14 @@ For now, benchmarks we use are as follows:
 ```markdown
 | Benchmark  | Cycles   |
 |------------|----------|
-|poisson3Da | 19878983|
-|raefsky1 | 27458639|
-|crystk01 | 21885313|
-|s3rmt3m3 | 8628745|
-|t2dah\_a | 5582450|
-|nasa2910 | 12797230|
-|bcsstk24 | 7588259|
-|cavity26 | 6632677|
-|ex9 | 4011290|
-|af23560 | 15408694|
+| poisson3Da | 19878983 |
+| raefsky1   | 27458639 |
+| crystk01   | 21885313 |
+| s3rmt3m3   | 8628745  |
+| t2dah_a    | 5582450  |
+| nasa2910   | 12797230 |
+| bcsstk24   | 7588259  |
+| cavity26   | 6632677  |
+| ex9        | 4011290  |
+| af23560    | 15408694 |
 ```
